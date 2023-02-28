@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haroon-Atif
-- 👀 I’m interested in Artificial Intelligence, Gaming, VR and AR, and Artificial Life
+- 👀 I’m interested in Artificial Intelligence, Quantumn Computing, VR and AR, and Artificial Life
 - 🌱 I’m currently a computer science student
 - 💞️ I’m looking to collaborate on anything I can get my hands on really
 - 📫 You can reach me on linkedin at https://www.linkedin.com/in/haroon-atif/ or on discord through Lucky#4980
